@@ -1,7 +1,7 @@
 ## Available methods
 | endpoint | request type | description |
 | :--- | :--- | :--- | 
-| api/v1/sensordata/ | GET| Getting a list of sensordata (can filter the data with ?sensor_id=&dwell_time=|
+| api/v1/sensordata/ | GET| Getting a list of sensordata (can filter the data with ?sensor_id=&dwell_time=)|
 | api/v1/sensordata/ | POST | Create sensor data in db|
 
 ## Instructions for launching project
